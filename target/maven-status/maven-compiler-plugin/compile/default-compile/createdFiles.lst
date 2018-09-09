@@ -1,0 +1,14 @@
+com\fico\guice\google_guice_xample\Communication.class
+com\fico\guice\google_guice_xample\modules\BasicModule.class
+com\fico\guice\google_guice_xample\binding\BasicModule.class
+com\fico\guice\google_guice_xample\binding\AOPModule.class
+com\fico\guice\google_guice_xample\DefaultCommunicator.class
+com\fico\guice\google_guice_xample\constant\CommunicationModel.class
+com\fico\guice\google_guice_xample\EmailCommunicationMode.class
+com\fico\guice\google_guice_xample\CommunicationMode.class
+com\fico\guice\google_guice_xample\marker\Communicator.class
+com\fico\guice\google_guice_xample\aop\MessageSentLoggable.class
+com\fico\guice\google_guice_xample\IMCommunicationMode.class
+com\fico\guice\google_guice_xample\SMSCommunicationMode.class
+com\fico\guice\google_guice_xample\RunGuice.class
+com\fico\guice\google_guice_xample\aop\MessageLogger.class
